@@ -1,4 +1,3 @@
-# Developpement_web_code_exercces
-Apprentissage de langue de code diverses
+# README
 
-README pour la formation github
+Apprentissage de langue de code diverses
